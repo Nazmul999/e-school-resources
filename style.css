@@ -1,0 +1,48 @@
+.top-banner{
+    background: #ffcfd2;
+}
+.container{
+    margin-bottom: 100px;
+}
+.nav, a img{
+    width: 120px;
+    height: 55px;
+}
+.nav-item{
+    margin-left:15px ;
+
+}
+.text-dark{
+    font-weight: 500;
+}
+.btn{
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    padding: 5px 20px;
+    margin-left:15px 
+}
+.books3{
+    box-shadow: 1px 2px 2px lightgray ;
+    border: none;
+    background-color: #ffcfd2;
+    margin: 10px;
+    width: 100%;
+    text-align: center;
+}
+.books3 img{
+    padding: 10px;
+}
+
+.books3:hover{
+    cursor: pointer;
+    box-shadow: 1px 5px 30px lightgray;
+    background-color: white;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
